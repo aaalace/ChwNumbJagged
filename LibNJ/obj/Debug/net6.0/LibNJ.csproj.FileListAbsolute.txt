@@ -1,0 +1,12 @@
+D:\Projects\learning\hseCS\module2\ChwNumbJagged\LibNJ\obj\Debug\net6.0\LibNJ.csproj.AssemblyReference.cache
+D:\Projects\learning\hseCS\module2\ChwNumbJagged\LibNJ\obj\Debug\net6.0\LibNJ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\learning\hseCS\module2\ChwNumbJagged\LibNJ\obj\Debug\net6.0\LibNJ.AssemblyInfoInputs.cache
+D:\Projects\learning\hseCS\module2\ChwNumbJagged\LibNJ\obj\Debug\net6.0\LibNJ.AssemblyInfo.cs
+D:\Projects\learning\hseCS\module2\ChwNumbJagged\LibNJ\obj\Debug\net6.0\LibNJ.csproj.CoreCompileInputs.cache
+D:\Projects\learning\hseCS\module2\ChwNumbJagged\LibNJ\bin\Debug\net6.0\LibNJ.deps.json
+D:\Projects\learning\hseCS\module2\ChwNumbJagged\LibNJ\bin\Debug\net6.0\LibNJ.dll
+D:\Projects\learning\hseCS\module2\ChwNumbJagged\LibNJ\bin\Debug\net6.0\LibNJ.pdb
+D:\Projects\learning\hseCS\module2\ChwNumbJagged\LibNJ\obj\Debug\net6.0\LibNJ.dll
+D:\Projects\learning\hseCS\module2\ChwNumbJagged\LibNJ\obj\Debug\net6.0\refint\LibNJ.dll
+D:\Projects\learning\hseCS\module2\ChwNumbJagged\LibNJ\obj\Debug\net6.0\LibNJ.pdb
+D:\Projects\learning\hseCS\module2\ChwNumbJagged\LibNJ\obj\Debug\net6.0\ref\LibNJ.dll

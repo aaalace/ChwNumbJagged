@@ -8,6 +8,7 @@ public static class Program
     // N1 <integer: size of first NumbJaggedArray>
     // N2 <integer: size of second NumbJaggedArray>
     // ...
+    // (example of correct file in directory of .exe file - "njtest.txt")
     
     public static void Main()
     {
@@ -15,7 +16,7 @@ public static class Program
         do
         {
             cycleState = LoopBodyContainer.LoopBody();
-            if (cycleState) { ConsoleInteraction.PressKeyOption(); }
+            if (cycleState) { ConsoleInteraction.WriteLine(ConstantMessages.PressKeyMessage); }
         } while (!cycleState || Console.ReadKey(true).Key != ConsoleKey.Q);
     }
 }

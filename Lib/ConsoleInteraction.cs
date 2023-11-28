@@ -2,11 +2,6 @@
 
 public static class ConsoleInteraction
 {
-    public static void PressKeyOption()
-    {
-        Console.WriteLine(ConstantMessages.PressKeyMessage);
-    }
-
     public static void Write(string output, ConsoleColor color = ConsoleColor.White, bool toNextLine = false)
     {
         Console.ForegroundColor = color;

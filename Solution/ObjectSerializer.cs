@@ -3,11 +3,18 @@ using LibNJ;
 
 namespace Solution;
 
+/// <summary>
+/// Responsible for representing NumbJagged class objects data.
+/// </summary>
 public static class ObjectSerializer
 {
     private const string OSSeparatorStart = "{";
     private const string OSSeparatorClose = "}\n";
 
+    /// <summary>
+    /// Correct objects processing.
+    /// </summary>
+    /// <param name="obj">Correct NumbJagged object.</param>
     public static void SerializeAndWrite(NumbJagged obj)
     {
         ConsoleInteraction.Write(obj.JArray.Length.ToString() + ' ', ConsoleColor.Green);
@@ -26,6 +33,10 @@ public static class ObjectSerializer
         ConsoleInteraction.WriteLine(OSSeparatorClose);
     }
 
+    /// <summary>
+    /// Objects with errors processing.
+    /// </summary>
+    /// <param name="errorInt">Incorrect object built-in size.</param>
     public static void SerializeObjWithError(int errorInt)
     {
         ConsoleInteraction.Write(errorInt.ToString() + ' ', ConsoleColor.Green);
